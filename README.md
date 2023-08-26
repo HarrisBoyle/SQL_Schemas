@@ -1,6 +1,6 @@
 # SQL Database Creation Project
 
-![ER Diagram](./"Coventry Medical Group - ER Diagram.png")
+![ER Diagram](Coventry Medical Group - ER Diagram.png)
 
 ## Contents
 
